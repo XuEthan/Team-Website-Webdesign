@@ -1,4 +1,3 @@
 # Team-Website-Webdesign
-test-edit
-nav bar
-<br>
+Repository for webdesign team website project
+
